@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "shield",
+  "pattern": [
+    " S ",
+    "SHS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "H": {
+      "item": "minecraft:shield"
+    }
+  },
+  "result": {
+    "item": "slimehoneyshields:slime_block_shield"
+  }
+}

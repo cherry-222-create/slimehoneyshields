@@ -1,0 +1,8 @@
+{
+  "itemGroup.slimehoneyshields": "粘液与蜂蜜盾牌",
+  "item.slimehoneyshields.slime_block_shield": "粘液块盾牌",
+  "item.slimehoneyshields.honey_block_shield": "蜂蜜块盾牌",
+  "enchantment.slimehoneyshields.rebound": "反弹",
+  "enchantment.slimehoneyshields.sticky": "粘滞",
+  "effect.slimehoneyshields.stuck": "被黏住"
+}

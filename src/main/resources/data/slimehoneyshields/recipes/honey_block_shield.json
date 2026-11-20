@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "shield",
+  "pattern": [
+    " H ",
+    "HSH",
+    " H "
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:honey_block"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    }
+  },
+  "result": {
+    "item": "slimehoneyshields:honey_block_shield"
+  }
+}

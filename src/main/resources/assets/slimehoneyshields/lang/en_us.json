@@ -1,0 +1,8 @@
+{
+  "itemGroup.slimehoneyshields": "Slime & Honey Shields",
+  "item.slimehoneyshields.slime_block_shield": "Slime Shield",
+  "item.slimehoneyshields.honey_block_shield": "Honey Shield",
+  "enchantment.slimehoneyshields.rebound": "Rebound",
+  "enchantment.slimehoneyshields.sticky": "Sticky",
+  "effect.slimehoneyshields.stuck": "Stuck"
+}
